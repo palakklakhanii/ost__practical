@@ -1,0 +1,7 @@
+DEFINE ALKANES AND EXPLAIN ISOMERISM IN ALKANES= 1.Alkanes are saturated aliphatic hydrocarbons having strong carbon-carbon single bond.
+2. Alkanes are known as paraffins as they are less reactive due to strong carbon-carbon covalent bond.
+3. The general formula for alkanes is RnH2n+2.
+4. Isomerism is the phenomena in which molecules have similar molecular formula but different structural formula.
+5. examples: C4H10
+* ch4-ch2-ch2-ch4 * = n-butane
+*  * = 
